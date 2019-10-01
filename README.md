@@ -2,8 +2,12 @@
 Just a simple bank of svg files that can be reused for diagrams and logos.
 
 ## SVG files list
-### Computer screen
-![Computer screen](computer/computer-screen.svg)
+### Computer
+#### Screen
+![Computer screen](computer/screen.svg)
+
+#### Tower
+![Computer tower](computer/tower.svg)
 
 ## References
 These files were created using the fantastic svg manipulation program
