@@ -12,6 +12,10 @@ Just a simple bank of svg files that can be reused for diagrams and logos.
 #### Mouse
 ![Computer mouse](computer/mouse.svg)
 
+### Unsorted
+#### Puzzle piece
+![Puzzle piece](puzzle.svg)
+
 ## References
 These files were created using the fantastic svg manipulation program
 [Inkscape](https://inkscape.org/).
