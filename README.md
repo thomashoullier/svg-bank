@@ -14,8 +14,12 @@ Just a simple bank of svg files that can be reused for diagrams and logos.
 
 ### Unsorted
 #### Puzzle piece
-![Puzzle piece](puzzle.svg)
-![Puzzle piece 2](puzzle-2.svg)
+![Puzzle piece](unsorted/puzzle.svg)
+![Puzzle piece 2](unsorted/puzzle-2.svg)
+
+### Handshake
+(Not super pretty yet)
+![Handshake](unsorted/handshake.svg)
 
 ## References
 These files were created using the fantastic svg manipulation program
